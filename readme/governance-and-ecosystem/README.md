@@ -1,6 +1,0 @@
----
-icon: sparkle
----
-
-# Governance & Ecosystem
-
