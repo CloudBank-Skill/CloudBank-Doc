@@ -6,7 +6,9 @@ R(burn) = 20% \* R
 
 R(stakers) = 40% \* R
 
-R(treasury) = 20% \* R
+R(treasury) = 10% \* R
+
+R(team) = 10% \* R
 
 R(insurance) = 20% \* R
 
